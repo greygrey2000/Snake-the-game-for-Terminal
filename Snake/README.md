@@ -16,3 +16,13 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+
+This project is a Java implementation of the classic Snake game for the terminal. It provides a fun and interactive way to play the game directly in your command line interface.
+
+To start the game, simply run the Roomd main Java file. The game will be displayed in the terminal window, where you can control the snake using the arrow keys.
+
+Feel free to explore the code and make any modifications or enhancements to customize the game according to your preferences.
+
+Enjoy playing the Snake game in the terminal!
